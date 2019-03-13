@@ -1,0 +1,28 @@
+{
+  "name": "graphql-simple-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgenymyltsev/graphql-simple-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgenymyltsev/graphql-simple-example/issues"
+  },
+  "homepage": "https://github.com/evgenymyltsev/graphql-simple-example#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
+    "mongoose": "^5.4.19"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
